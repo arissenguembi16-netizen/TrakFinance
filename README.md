@@ -1,4 +1,4 @@
-# 💰 TrackFinance
+#  TrackFinance
 
 <div align="center">
   <img src="assets/images/logo.png" alt="TrackFinance Logo" width="120" height="120"/>
@@ -13,60 +13,60 @@
 
 ---
 
-## 📖 À propos
+##  À propos
 
 **TrackFinance** est une application mobile de gestion des finances personnelles développée avec Flutter.
 Elle permet à ses utilisateurs de suivre leurs dépenses et revenus, d'analyser leurs habitudes financières
 et d'optimiser leur budget mensuel — le tout en mode **100% hors connexion**.
 
-> 🎓 Projet académique — Épreuve de Développement Mobile  
-> 🏫 ESITECH · Libreville, Gabon · Niveau L3 Développement · 2025
+>  Projet académique — Épreuve de Développement Mobile  
+>  ESITECH · Libreville, Gabon · Niveau L3 Développement · 2025
 
 ---
 
-## ✨ Fonctionnalités
+##  Fonctionnalités
 
-### 🔐 Authentification
+### Authentification
 - Inscription et connexion locale sécurisée
 - Mot de passe haché avec **SHA-256**
 - Session persistante via SharedPreferences
 
-### 💸 Gestion des transactions
+###  Gestion des transactions
 - Ajout, modification et suppression de transactions
 - Classification en **Dépenses** ou **Revenus**
 - Attribution à une catégorie
 - Sélection de date et note optionnelle
 - Swipe-to-delete avec confirmation
 
-### 📂 Catégories
+###  Catégories
 - 13 catégories par défaut (alimentation, transport, salaire...)
 - Création de catégories personnalisées
 - Icône et couleur personnalisables
 
-### 🎯 Budgets mensuels
+###  Budgets mensuels
 - Définition d'un budget limite par catégorie
 - Barre de progression colorée en temps réel
 - Alertes visuelles à 80% et 100% du budget
 
-### 📊 Statistiques & Graphiques
+###  Statistiques & Graphiques
 - **PieChart** : répartition des dépenses par catégorie
 - **BarChart** : comparaison Revenus vs Dépenses sur 6 mois
 - Taux d'épargne mensuel calculé automatiquement
 - Solde, total revenus et total dépenses du mois
 
-### 👤 Profil utilisateur
+###  Profil utilisateur
 - Modification du nom
 - Choix de la devise (XAF, EUR, USD, MAD, GNF)
 - Statistiques globales du compte
 
-### 🌙 Autres
+###  Autres
 - Mode sombre automatique (selon le système)
 - Interface 100% en français
 - Fonctionnement entièrement hors connexion
 
 ---
 
-## 📱 Aperçu des écrans
+##  Aperçu des écrans
 
 | Splash | Login | Accueil |
 |--------|-------|---------|
@@ -97,7 +97,7 @@ et d'optimiser leur budget mensuel — le tout en mode **100% hors connexion**.
 
 ---
 
-## 📁 Architecture du projet
+##  Architecture du projet
 ```
 trackfinance/
 ├── lib/
@@ -146,7 +146,7 @@ trackfinance/
 
 ---
 
-## 🚀 Installation et lancement
+##  Installation et lancement
 
 ### Prérequis
 
@@ -222,7 +222,7 @@ CREATE TABLE budgets (
 
 ---
 
-## 🔐 Sécurité
+##  Sécurité
 
 - Aucune donnée transmise sur un serveur externe
 - Mot de passe haché en **SHA-256** avant stockage
@@ -231,18 +231,18 @@ CREATE TABLE budgets (
 
 ---
 
-## 👥 Utilisateurs cibles
+##  Utilisateurs cibles
 
 | Profil | Cas d'usage |
 |--------|-------------|
-| 🎓 Étudiants | Suivi du budget mensuel et des dépenses courantes |
-| 💼 Salariés | Gestion des revenus et contrôle des dépenses |
-| 🧑‍💻 Freelances | Suivi des revenus irréguliers et planification |
-| 👨‍👩‍👧 Particuliers | Optimisation du budget familial |
+|  Étudiants | Suivi du budget mensuel et des dépenses courantes |
+|  Salariés | Gestion des revenus et contrôle des dépenses |
+|  Freelances | Suivi des revenus irréguliers et planification |
+|  Particuliers | Optimisation du budget familial |
 
 ---
 
-## 🤝 Contribution
+##  Contribution
 
 Les contributions sont les bienvenues !
 ```bash
@@ -268,8 +268,9 @@ Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 ---
 
 <div align="center">
-  <p>Développé avec ❤️ à Libreville, Gabon</p>
+  <p>Développé avec  à Libreville, Gabon</p>
   <p>
     <strong>TrackFinance</strong> · ESITECH · L3 Développement · 2025
   </p>
 </div>
+
